@@ -1,0 +1,27 @@
+h1, h2{
+    font-family: Arial;
+    font-size: 19pt;
+    color: rgb(229, 64, 92);
+}
+label {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 19px;
+    color: rgb(229, 64, 92);
+}
+p {
+    font-family: Open Sans;
+    font-size: 15px;
+    color: black;
+    line-height: 18 px;
+    margin-bottom: 20 px;
+}
+li {
+    font-size: 15px;
+    color: black;
+    font-family: Open Sans;
+}
+h1#redes {
+    font-family: helvetica;
+    font-size: 19pt;
+    color: black;
+}
